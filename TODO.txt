@@ -57,3 +57,17 @@ Aplikace [zavedení PWA]
 bugtracker [není třeba]
 Bugování obrázků [pouze obrázky z localhostu, norm. nedostupné]
 asciimoji [před zavedením obrázků]
+
+----
+(pokud jsem zvolil nějaký špatný způsob na 'komentování', omlouvám se, na GH jsem nový)
+FF8500
+FFCC00
+#7fffd4	
+F2C2F2
+
+doporučený font je Ubuntu, je hojně používaný a vzhledný
+co se týče rychlého přehledu, chtělo by to nejspíš ten 'boxový' design, předvedu:
+https://imgur.com/a/ZfeNS8O
+
+co se týče oznámení jako takových, pokud člověk není na rychlém přehledu, měla by nahoře být ikonka zvonku
+po kliknutí na ikonku by se měl obejvit podobný dialog jako např u facebooku. obsah jsem posílal do skupiy
